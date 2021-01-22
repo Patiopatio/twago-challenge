@@ -1,6 +1,6 @@
 <template>
   <div class="feature">
-    <div><img :src="logo" class="feature__logo" /></div>
+    <div><img :src="logo" class="feature__logo" alt="logo" /></div>
     <div>
       <h2 class="feature__header">This is a header</h2>
       <p class="feature__text">
