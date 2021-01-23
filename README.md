@@ -1,6 +1,7 @@
 # twago-challenge#
 
 [Live Demo](https://twago-challenge.vercel.app/)
+The challenge is a simple Nuxt.js and CSS3 landing page created withe the use of SCSS with BEM. The project was developed in 6 hours.
 
 ## Run locally
 
@@ -18,7 +19,7 @@ The page auto-updates as you edit the file.
 ## Frameworks
 
 - [Nuxt.js](https://nuxtjs.org/)
+- [SCSS](https://sass-lang.com/)
 
 ## Deploy on Vercel
 
-[deploy](https://spectrm-coding-challenge-l1n2gxolh.vercel.app/)
